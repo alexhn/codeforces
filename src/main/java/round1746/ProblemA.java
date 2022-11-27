@@ -1,4 +1,4 @@
-package cf1746;
+package round1746;
 
 import java.util.Scanner;
 
